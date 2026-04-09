@@ -1,2 +1,2 @@
-# nginx-configurator configuration — rev 0
-DEFAULT_TIMEOUT = 30
+# nginx-configurator configuration — rev 6
+DEFAULT_TIMEOUT = 60
